@@ -4,4 +4,4 @@ Machine downtime is a significant concern for the corrugated box manufacturing i
 To remedy these losses and enhance efficiency, we propose the implementation of a predictive model designed to estimate the strength of corrugated boxes in real-time by utilizing a combination of raw materials specification and machine parameters data. This model would eliminate the need to stop machines for testing, thereby reducing downtime and waiting periods for lab results. Furthermore, the predictive model can offer recommendations for optimal machine settings, empowering staff to make data-driven adjustments. This approach not only boosts productivity but also addresses real-world challenges, ensuring a smoother and more cost-effective manufacturing process.
 
 
-FINAL REPORT 
+[FINAL REPORT](https://github.com/vrahulrvce/Box_model/blob/4169e1c795e91da06f73526f5735d32a92ddb883/Predicting%20Box%20Strength.pdf)
